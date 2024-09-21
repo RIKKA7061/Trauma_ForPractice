@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project archive\\Trauma\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4195860-99C4-DE41-6AB9-99AE6331C4D3}|Assembly-CSharp.csproj|d:\\project archive\\trauma\\assets\\scoreeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4195860-99C4-DE41-6AB9-99AE6331C4D3}|Assembly-CSharp.csproj|solutionrelative:assets\\scoreeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4195860-99C4-DE41-6AB9-99AE6331C4D3}|Assembly-CSharp.csproj|D:\\Project archive\\Trauma\\assets\\scripts\\playeraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4195860-99C4-DE41-6AB9-99AE6331C4D3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playeraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4195860-99C4-DE41-6AB9-99AE6331C4D3}|Assembly-CSharp.csproj|D:\\Project archive\\Trauma\\assets\\scripts\\textmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4195860-99C4-DE41-6AB9-99AE6331C4D3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\textmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4195860-99C4-DE41-6AB9-99AE6331C4D3}|Assembly-CSharp.csproj|D:\\Project archive\\Trauma\\assets\\scripts\\texteffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4195860-99C4-DE41-6AB9-99AE6331C4D3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\texteffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4195860-99C4-DE41-6AB9-99AE6331C4D3}|Assembly-CSharp.csproj|D:\\Project archive\\Trauma\\assets\\scripts\\questmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4195860-99C4-DE41-6AB9-99AE6331C4D3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\questmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4195860-99C4-DE41-6AB9-99AE6331C4D3}|Assembly-CSharp.csproj|D:\\Project archive\\Trauma\\assets\\scripts\\quest_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4195860-99C4-DE41-6AB9-99AE6331C4D3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\quest_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4195860-99C4-DE41-6AB9-99AE6331C4D3}|Assembly-CSharp.csproj|D:\\Project archive\\Trauma\\assets\\scripts\\talkmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4195860-99C4-DE41-6AB9-99AE6331C4D3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\talkmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScoreEffect.cs",
+              "DocumentMoniker": "D:\\Project archive\\Trauma\\Assets\\ScoreEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\ScoreEffect.cs",
+              "ToolTip": "D:\\Project archive\\Trauma\\Assets\\ScoreEffect.cs",
+              "RelativeToolTip": "Assets\\ScoreEffect.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAUwBgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T19:00:53.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerAction.cs",
+              "DocumentMoniker": "D:\\Project archive\\Trauma\\Assets\\Scripts\\PlayerAction.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerAction.cs",
+              "ToolTip": "D:\\Project archive\\Trauma\\Assets\\Scripts\\PlayerAction.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerAction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T18:12:29.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TextEffect.cs",
+              "DocumentMoniker": "D:\\Project archive\\Trauma\\Assets\\Scripts\\TextEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TextEffect.cs",
+              "ToolTip": "D:\\Project archive\\Trauma\\Assets\\Scripts\\TextEffect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TextEffect.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAswC8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T18:10:59.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Quest_Data.cs",
+              "DocumentMoniker": "D:\\Project archive\\Trauma\\Assets\\Scripts\\Quest_Data.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Quest_Data.cs",
+              "ToolTip": "D:\\Project archive\\Trauma\\Assets\\Scripts\\Quest_Data.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Quest_Data.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T15:21:22.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QuestManager.cs",
+              "DocumentMoniker": "D:\\Project archive\\Trauma\\Assets\\Scripts\\QuestManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\QuestManager.cs",
+              "ToolTip": "D:\\Project archive\\Trauma\\Assets\\Scripts\\QuestManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\QuestManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T21:28:16.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TextManager.cs",
+              "DocumentMoniker": "D:\\Project archive\\Trauma\\Assets\\Scripts\\TextManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TextManager.cs",
+              "ToolTip": "D:\\Project archive\\Trauma\\Assets\\Scripts\\TextManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TextManager.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAQwCMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T21:20:51.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TalkManager.cs",
+              "DocumentMoniker": "D:\\Project archive\\Trauma\\Assets\\Scripts\\TalkManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TalkManager.cs",
+              "ToolTip": "D:\\Project archive\\Trauma\\Assets\\Scripts\\TalkManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TalkManager.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAswBQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T12:42:47.383Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
